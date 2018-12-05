@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.login(process.env.BOT_TOKEN);
+client.login('MzE3Mjc3NzMxMTY5NzYzMzM5.DukvzA.v8qQ40AHASXAuclht_GO-LA8S1Q');
 
 console.log("Selesai");
 
